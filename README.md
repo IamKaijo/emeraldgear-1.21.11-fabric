@@ -35,7 +35,7 @@ It adds emerald-based equipment and introduces special villager interactions whe
 
 ## Links
 
-- Modrinth: *Unavailable*
+- Modrinth: [Modrinth](https://modrinth.com/mod/emeraldgear-fabric/)
 
 ---
 
